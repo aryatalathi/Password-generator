@@ -1,2 +1,3 @@
 # Python-projects
-Small and creative projects using Python
+Some creative and easy to do projects in Python
+Innovative codes ahead !!
